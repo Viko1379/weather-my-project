@@ -11,3 +11,6 @@ h1 {
   position: relative;
   top: -34px;
 }
+.open {
+  color: blue;
+}
